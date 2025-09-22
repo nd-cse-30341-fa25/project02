@@ -68,7 +68,7 @@ brainstorming questions **are not required**.
 > List anyone you collaborated with or received help from (including TAs, other
 students, and AI tools)
 
-[Project 02]: https://www3.nd.edu/~pbui/teaching/cse.30341.fa25/project02.html
-[CSE.30341.FA25]: https://www3.nd.edu/~pbui/teaching/cse.30341.fa25/
+[Project 02]: https://pnutz.h4x0r.space/courses/cse.30341.fa25/project02.html
+[CSE.30341.FA25]: https://pnutz.h4x0r.space/courses/cse.30341.fa25/
 [libcurl]: https://curl.se/libcurl/c/
 [HTTP]: https://en.wikipedia.org/wiki/HTTP
